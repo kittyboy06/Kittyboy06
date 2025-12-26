@@ -54,17 +54,17 @@
 ## 📊 GitHub Analytics
 <div align="center">
 <!-- Replace 'StartLord22' with your actual GitHub username if different -->
-<a href="https://github.com/StartLord22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StartLord22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StartLord22&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/kittyboy06">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kittyboy06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittyboy06&layout=compact&theme=tokyonight"/>
 </a>
 <br/><br/>
-<a href="https://github.com/StartLord22">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StartLord22&theme=tokyonight" />
+<a href="https://github.com/kittyboy06">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittyboy06&theme=tokyonight" />
 </a>
 <br/><br/>
 <!-- Activity Graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StartLord22&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kittyboy06&theme=tokyonight" />
 </div>
 <br/>
 <!-- Footer -->
